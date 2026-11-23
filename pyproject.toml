@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "sme-bridge"
+name = "candor"
 version = "1.0.0"
 requires-python = ">=3.11"
 dependencies = [
@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.scripts]
-sme-bridge = "sme_bridge.cli:cli"
+candor = "sme_bridge.cli:cli"
 
 [project.optional-dependencies]
 vector = ["chromadb>=0.5", "sentence-transformers>=3.0"]

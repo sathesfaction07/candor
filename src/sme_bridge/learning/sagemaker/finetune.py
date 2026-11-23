@@ -17,7 +17,7 @@ class FineTuneConfig:
     output_s3_uri: str
     role_arn: str
     hyperparameters: dict | None = None
-    job_name_prefix: str = "sme-bridge-finetune"
+    job_name_prefix: str = "candor-finetune"
 
 
 @dataclass
@@ -119,7 +119,7 @@ class ModelRegistry:
             InferenceSpecification={
                 "Containers": [
                     {
-                        "Image": "123456789012.dkr.ecr.us-east-1.amazonaws.com/sme-bridge:latest",
+                        "Image": "123456789012.dkr.ecr.us-east-1.amazonaws.com/candor:latest",
                         "ModelDataUrl": model_s3_uri,
                     }
                 ],

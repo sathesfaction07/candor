@@ -6,7 +6,7 @@ Accepted
 
 ## Context
 
-The defining feature of SME Bridge is knowing what it doesn't know. A single confidence float would be opaque: users couldn't tell whether low confidence came from poor retrieval, model disagreement, or weak citations.
+The defining feature of Candor is knowing what it doesn't know. A single confidence float would be opaque: users couldn't tell whether low confidence came from poor retrieval, model disagreement, or weak citations.
 
 ## Decision
 

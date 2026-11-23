@@ -1,10 +1,10 @@
-# SME Bridge
+# Candor
 
 An AI subject-matter-expert assistant over SOP documents with calibrated confidence gating.
 
 ## What It Does
 
-SME Bridge answers questions from procedural and policy documents. The defining feature is that **it knows what it does not know**: when the evidence is too weak to support an answer, the system refuses to respond and instead emits a precise question to ask a human expert. That question, along with the confidence breakdown and retrieved context, is recorded as a knowledge gap. When the expert provides an answer, it is folded back into the system so the same question succeeds the next time.
+Candor answers questions from procedural and policy documents. The defining feature is that **it knows what it does not know**: when the evidence is too weak to support an answer, the system refuses to respond and instead emits a precise question to ask a human expert. That question, along with the confidence breakdown and retrieved context, is recorded as a knowledge gap. When the expert provides an answer, it is folded back into the system so the same question succeeds the next time.
 
 This is not a safety disclaimer layered over an answering system. Abstention is the architecture. Every answer carries a `ConfidenceBreakdown` with three measured evidence scores (retrieval support, citation coverage, ensemble agreement), a composite, and an auditability dict. A gate compares the composite against a threshold and decides whether to answer or abstain. The threshold and the composite are both inspectable and tunable.
 

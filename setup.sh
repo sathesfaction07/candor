@@ -4,7 +4,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
-echo "=== SME Bridge Setup ==="
+echo "=== Candor Setup ==="
 echo
 
 if ! command -v python3 &>/dev/null; then

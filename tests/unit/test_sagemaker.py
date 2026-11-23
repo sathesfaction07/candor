@@ -50,7 +50,7 @@ def test_sagemaker_client_submit_finetune_job(mock_boto):
 
     job_name = client.submit_finetune_job(config)
 
-    assert "sme-bridge-finetune" in job_name
+    assert "candor-finetune" in job_name
     mock_sagemaker.create_training_job.assert_called_once()
     call_args = mock_sagemaker.create_training_job.call_args[1]
     assert call_args["RoleArn"] == config.role_arn
@@ -233,7 +233,7 @@ def test_calibration_job_submit(mock_boto):
 
     job_name = runner.submit_calibration_job(config)
 
-    assert "sme-bridge-calibration" in job_name
+    assert "candor-calibration" in job_name
     mock_sagemaker.create_processing_job.assert_called_once()
 
 

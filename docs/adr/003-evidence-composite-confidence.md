@@ -6,7 +6,7 @@ Accepted
 
 ## Context
 
-The defining feature of SME Bridge is knowing when to abstain. A confidence mechanism that permits the system to answer incorrectly with high confidence undermines the entire design. LLM self-reported confidence is therefore not an option: models have no access to ground truth and tend to report confidence based on fluency rather than correctness.
+The defining feature of Candor is knowing when to abstain. A confidence mechanism that permits the system to answer incorrectly with high confidence undermines the entire design. LLM self-reported confidence is therefore not an option: models have no access to ground truth and tend to report confidence based on fluency rather than correctness.
 
 A prior internal implementation computed confidence by starting at a hardcoded 0.85 and adding small bonuses for response length and for the presence of bullet points and bold formatting characters. This measured whether a response looked well-formatted rather than whether it was correct. Under this scheme, a confidently wrong answer with good formatting would pass the gate while a terse correct answer might not.
 

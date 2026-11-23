@@ -1,6 +1,6 @@
 # Architecture
 
-SME Bridge is a question-answering system that knows when to refuse. The defining flow is: ask a question, get either a grounded answer or a precise question to ask a human expert, fold the expert's answer back in, and answer that question successfully the next time.
+Candor is a question-answering system that knows when to refuse. The defining flow is: ask a question, get either a grounded answer or a precise question to ask a human expert, fold the expert's answer back in, and answer that question successfully the next time.
 
 ## Data Flow
 

@@ -15,7 +15,7 @@ class CalibrationJobConfig:
         training_data_s3_uri: str,
         output_s3_uri: str,
         role_arn: str,
-        job_name_prefix: str = "sme-bridge-calibration",
+        job_name_prefix: str = "candor-calibration",
     ):
         self.training_data_s3_uri = training_data_s3_uri
         self.output_s3_uri = output_s3_uri
@@ -40,7 +40,7 @@ class CalibrationJobRunner:
             "AppSpecification": {
                 "ImageUri": (
                     "123456789012.dkr.ecr.us-east-1.amazonaws.com/"
-                    "sme-bridge-calibration:latest"
+                    "candor-calibration:latest"
                 ),
             },
             "ProcessingInputs": [
