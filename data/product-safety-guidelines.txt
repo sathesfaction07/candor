@@ -1,0 +1,83 @@
+# Product Safety Compliance Guidelines
+
+## Battery Safety Requirements
+
+### Button-Cell Batteries
+
+Button-cell batteries pose a significant safety hazard if ingested by children. Products containing button-cell batteries must meet the following requirements:
+
+1. **Secure Compartments**: Battery compartments must be secured with a screw or require the use of a tool to open. Products with easily accessible button-cell batteries are prohibited from sale.
+
+2. **Warning Labels**: Products must display clear warning labels about battery ingestion hazards. Labels must be visible and legible, stating: "DANGER: Swallowing can lead to serious injury or death in as little as 2 hours due to chemical burns."
+
+3. **Testing Requirements**: All products must undergo testing to verify that the battery compartment cannot be opened by a child without tools.
+
+### Lithium Ion Batteries
+
+Lithium ion battery packs must comply with international safety standards to prevent thermal runaway events:
+
+- Battery packs must include overcharge protection circuits
+- Thermal fuses must activate at temperatures above 85°C
+- Products must pass drop test requirements without battery damage
+- Charging circuits must comply with IEC 62368-1 standards
+
+## Window Covering Safety
+
+Corded window coverings present a strangulation hazard to children. All window covering products must meet one of the following criteria:
+
+1. **Cordless Design**: The preferred solution. Window coverings should use cordless lift mechanisms such as spring-loaded systems or motorized controls.
+
+2. **Short Cord Design**: If cords are present, they must be short enough (less than 6 inches of exposed cord) to prevent loop formation.
+
+3. **Breakaway Feature**: Continuous loop cords must include a tension device that breaks away under 6 pounds of force.
+
+4. **Warning Labels**: All corded products must include warning labels showing the strangulation hazard and instructions for safe installation away from cribs and furniture children can climb.
+
+Products failing to meet these requirements will be removed from sale immediately.
+
+## Textile Flammability Requirements
+
+### Children's Sleepwear
+
+Children's sleepwear in sizes 9 months through size 14 must meet strict flammability standards under 16 CFR 1615 and 1616.
+
+**Tight-Fitting Exemption**: Garments may be exempt from flame-resistant treatment if they:
+- Pass specific dimensional requirements for tight fit
+- Include labels stating "WEAR SNUG-FITTING. NOT FLAME RESISTANT."
+- Do not exceed specified body measurements for each size
+
+**Flame-Resistant Treatment**: Sleepwear not meeting tight-fit criteria must:
+- Be inherently flame-resistant (polyester fleece is acceptable)
+- Maintain flame resistance after 50 wash cycles
+- Pass vertical flame tests with char length not exceeding 7 inches
+
+### General Textile Requirements
+
+All textile products must:
+- Be free from hazardous substances above regulated limits
+- Include accurate fiber content labels
+- Provide care instructions in the primary language of the target market
+
+## Small Parts Requirements
+
+Products intended for children under 3 years must not contain small parts that pose a choking hazard.
+
+**Testing Protocol**: The small parts test cylinder (31.7mm diameter × 57.1mm depth) determines whether a part is too small. Any component that fits entirely within this cylinder is considered a small part and is prohibited.
+
+**Exemptions**: Books and other paper products are exempt from small parts regulations, though they must still meet general safety requirements.
+
+## General Safety Requirements
+
+All consumer products must:
+1. Include safety warnings in the primary language of the target market
+2. Provide accurate age grading based on safety considerations
+3. Meet applicable federal safety standards for the product category
+4. Include manufacturer contact information for consumer questions
+5. Undergo third-party testing when required by regulation
+
+Warnings must be:
+- Legible and durable
+- Positioned where consumers will see them before use
+- Written in clear, understandable language
+
+Non-compliance with these requirements will result in immediate product removal and potential recalls.

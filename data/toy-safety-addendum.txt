@@ -1,0 +1,73 @@
+# Toy Safety Addendum
+
+## Age-Appropriate Design Standards
+
+Toys must be designed with age-appropriate safety features based on the intended user age range. The following guidelines apply:
+
+### General Age Categories
+
+**Ages 0-3 years**: Products must pass small parts testing. No detachable components smaller than the test cylinder dimensions are permitted. Surface coatings must be non-toxic and meet lead content limits.
+
+**Ages 3-6 years**: Small parts warnings must be displayed prominently. Toys with projectile features must meet velocity limits. Sharp edges and points are prohibited.
+
+**Ages 6+ years**: More complex assemblies are permitted, but warning labels must indicate specific hazards such as choking on small magnets or battery ingestion risks.
+
+## Magnetic Component Requirements
+
+High-powered magnets in toys have caused serious injuries when multiple magnets are swallowed.
+
+**Current Status**: Regulations regarding high-powered magnets in toys have evolved significantly. Products on the market before recent regulatory changes may still be available for sale under previous standards. Newer products must meet updated requirements.
+
+### Safety Considerations
+
+Multiple swallowed magnets can attract to each other through intestinal walls, causing serious internal injuries. Parents should supervise children when playing with magnetic toys.
+
+Some magnetic building sets marketed to older children may contain magnets stronger than those permitted in toys for younger children. Age grading is critical for these products.
+
+## Paint and Surface Coating Standards
+
+All surface coatings, paints, and similar surface-coating materials on toys must comply with lead content limits established under the Consumer Product Safety Improvement Act.
+
+**Testing Requirements**: Third-party testing is required for most children's products to verify compliance with lead limits. Certificates of compliance must be provided by manufacturers.
+
+**Natural Materials**: Products made from unfinished natural wood, untreated fabrics, and certain other natural materials may have different testing requirements. Consult the specific exemptions to determine whether reduced testing applies.
+
+## Electronic Toy Safety
+
+Battery-operated toys must meet electrical safety standards:
+
+- Battery compartments must be secure (screw-secured or require tools to open for button batteries)
+- Charging mechanisms must prevent overheating
+- Electronic components must not present burn hazards during normal use or foreseeable misuse
+
+**Compatibility Standards**: Rechargeable toys should use standard connectors where possible to prevent use of incompatible chargers.
+
+## Warning Label Requirements
+
+Specific hazards require specific warnings. The following is a non-exhaustive list:
+
+- Small parts warnings for ages 3-6
+- Choking hazard warnings for balloons, balls, and marbles
+- Battery ingestion warnings for products with button batteries
+- Magnet ingestion warnings (when applicable)
+- Strangulation warnings for products with cords or strings
+
+Warning labels must be placed on the product packaging in a location visible before purchase. Permanent labels on the product itself are recommended but not always required depending on product category.
+
+## Compliance Verification
+
+Manufacturers are responsible for ensuring their products comply with all applicable safety standards. This includes:
+
+1. Conducting appropriate hazard analyses
+2. Obtaining third-party testing certifications when required
+3. Maintaining test records and certifications for regulatory review
+4. Monitoring safety incidents and reporting to regulatory authorities
+5. Implementing recalls promptly when safety issues are identified
+
+Retailers share responsibility for ensuring that products offered for sale meet safety requirements. Products found to be non-compliant must be removed from sale immediately.
+
+## International Market Considerations
+
+Products sold in multiple markets must meet the safety requirements of each jurisdiction. EU standards (EN 71 series) differ from US CPSC standards in some requirements. Canadian regulations also have unique aspects.
+
+Manufacturers selling internationally should verify compliance with all applicable standards for each target market.
